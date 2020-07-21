@@ -1,0 +1,7 @@
+# 忽略所有js文件
+*.js
+
+# 排除 index.js 文件
+!index.js
+
+# 忽略demo文件夹
